@@ -1,2 +1,2 @@
 # Tampermonkey
-For privte use.
+For private use only.
