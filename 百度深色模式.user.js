@@ -4,6 +4,9 @@
 // @description  为百度网页版桌面端提供深色模式，仅系统深色时生效，且不在搜索结果页(/s)生效。
 // @icon         https://www.baidu.com/favicon.ico
 // @author       CH4RL35HUNT3R
+// @updateURL    https://raw.githubusercontent.com/CH4RL35HUNT3R/Tampermonkey/main/%E7%99%BE%E5%BA%A6%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F.user.js
+// @downloadURL  https://raw.githubusercontent.com/CH4RL35HUNT3R/Tampermonkey/main/%E7%99%BE%E5%BA%A6%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F.user.js
+// @supportURL   https://github.com/CH4RL35HUNT3R/Tampermonkey
 // @match        *://www.baidu.com/*
 // @match        *://baidu.com/*
 // @grant        GM_registerMenuCommand

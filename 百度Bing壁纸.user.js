@@ -4,6 +4,9 @@
 // @description  为百度网页版主页套用 Bing 官方每日壁纸（cover 裁剪填满、不拉伸、1920x1080），并在顶部加一层纯渐变遮罩让壁纸自然过渡；搜索结果页(/s)不注入。壁纸来源：Bing 每日图片 API (cn.bing.com/HPImageArchive.aspx)。
 // @icon         https://www.baidu.com/favicon.ico
 // @author       CH4RL35HUNT3R
+// @updateURL    https://raw.githubusercontent.com/CH4RL35HUNT3R/Tampermonkey/main/%E7%99%BE%E5%BA%A6Bing%E5%A3%81%E7%BA%B8.user.js
+// @downloadURL  https://raw.githubusercontent.com/CH4RL35HUNT3R/Tampermonkey/main/%E7%99%BE%E5%BA%A6Bing%E5%A3%81%E7%BA%B8.user.js
+// @supportURL   https://github.com/CH4RL35HUNT3R/Tampermonkey
 // @match        *://www.baidu.com/*
 // @match        *://baidu.com/*
 // @grant        GM_getValue
